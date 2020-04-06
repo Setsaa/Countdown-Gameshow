@@ -7,5 +7,7 @@ This version of Countdown only contains the numbers round. The numbers round has
 # How does this version work?
 Per now, the program doesn't support checking answers from the user. Instead, you tell the program when you think you're done, or when you want to give up, and it shows you all the answer the program found. If it didn't find any, it'll inform you.
 
+# Why is this project so clunky?
+Because this is my first free-form python project entirely from scratch. Suggestions are welcome!
 
 Good luck!
